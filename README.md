@@ -3,7 +3,7 @@
 https://netflix-clone-teke.web.app/
 
 ## Author 
-# Tekalign Tesfaye Mengistu
+Tekalign Tesfaye Mengistu
 
 In the project directory, you can run:
 
