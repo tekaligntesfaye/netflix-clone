@@ -2,8 +2,8 @@
 # Demo Link:
 https://netflix-clone-teke.web.app/
 
-# Author 
-Tekalign Tesfaye
+## Author 
+# Tekalign Tesfaye Mengistu
 
 In the project directory, you can run:
 
